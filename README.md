@@ -63,7 +63,7 @@ design and implementation details are omitted.
 
 ## Ownership
 
-MuchiLife is designed and engineered by **Metin Cetin**, founder of
+MuchiLife is designed and engineered by **Metin Çetin**, founder of
 **MuchiWorks**. The work spans product direction, mobile engineering, backend
 services, commerce, quality, testing, documentation, and Google Play delivery.
 
