@@ -14,7 +14,12 @@ private source code or operational secrets.
 - Refined supported account experiences and account controls.
 - Improved purchase behavior, operational visibility, and support workflows.
 - Refined development and production delivery profiles and release validation.
-- Updated multilingual product copy and synchronized twelve locale resources.
+- Reframed MuchiLife's product language around interruptions, user-chosen
+  boundaries, and what a successful Focus means.
+- Clarified account choices, Focus Shield limits, and token rules across the
+  application and website.
+- Synchronized the revised product experience across twelve application
+  languages.
 
 ## September 2026
 
