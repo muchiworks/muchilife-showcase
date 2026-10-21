@@ -2,34 +2,56 @@
 
 ## The problem
 
-A quick visit to a social app can continue longer than intended. Infinite
-scrolling, autoplaying media, and recommendation after recommendation remove
-natural stopping points and can leave less time for planned work.
+Sometimes people open an app for a quick look and return later than planned.
+Infinite scrolling, autoplaying media, and continuous recommendations can remove
+natural stopping points.
 
-MuchiLife does not try to decide how someone should use a phone. It gives the
-person a way to choose a temporary boundary before opening the apps that tend to
-pull them in.
+The interruption costs more than the minutes spent looking. Returning to a study,
+task, book, or other chosen activity also means remembering where you left off
+and getting started again.
+
+MuchiLife does not ask people to remove their phones from their lives. It helps
+them decide which apps can wait and protect the time they chose.
 
 ## The product decision
 
-A Focus session has three explicit choices:
+A Focus session begins with three explicit choices:
 
 1. How long should the Focus last?
 2. Which apps should remain closed during that time?
 3. Is the person ready to start the boundary they selected?
 
 Once Focus begins, the timer and Focus Shield keep the decision visible. When
-the timer ends, the selected apps become available again and the completed time
-is recorded in Focus history.
+the timer ends, the boundary lifts automatically and the selected apps become
+available again.
+
+## What success means
+
+Many apps benefit when screen time grows. MuchiLife works the other way around:
+a good result is not keeping the app open, but completing the planned Focus and
+returning to the study, work, book, or anything else the person chose.
 
 ## Why tokens exist
 
 Focus sessions of 30 minutes or longer set aside one token. Completing the timer
-does not spend it. Confirming an early exit can use it.
+does not spend it. If the person chooses and confirms an early exit, one token
+is used.
 
-The token is not a fee for starting Focus. It creates a deliberate pause before
-undoing a longer boundary. The product explains this rule before a session and
-shows Google Play pricing before any purchase is confirmed.
+A token is not a fee for accessing MuchiLife. It adds one more decision before
+leaving a longer Focus early. It does not make leaving impossible; it makes the
+chosen boundary less easy to remove on impulse.
+
+Focus sessions shorter than 30 minutes do not require a token. MuchiLife never
+starts a purchase automatically, and Google Play pricing is shown before any
+purchase is confirmed.
+
+## Account choices
+
+A guest account remains on the device where it was created and does not sync
+across devices. Linking a Google account makes the same account available on
+supported devices and provides additional recovery options.
+
+MuchiLife explains this difference before the person chooses how to continue.
 
 ## Product principles
 
