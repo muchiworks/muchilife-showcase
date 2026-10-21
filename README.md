@@ -5,7 +5,7 @@
 <h1 align="center">MuchiLife</h1>
 
 <p align="center">
-  <strong>Choose the time. Choose the apps. Protect the boundary you set.</strong>
+  <strong>Decide what can wait. Protect the time you chose.</strong>
 </p>
 
 <p align="center">
@@ -18,14 +18,17 @@
 
 ## Product at a glance
 
-MuchiLife is an Android product for setting a deliberate boundary around selected
-apps during a Focus session. A person chooses a duration between 15 minutes and
-8 hours, selects the apps to keep closed, and follows the remaining time until
-the session ends.
+MuchiLife is an Android product that helps people decide which apps can wait,
+choose a Focus duration, and protect that time with Focus Shield.
 
-The product does not depend on advertising or engagement loops. Its job is to
-support a decision, keep the chosen boundary visible, and get out of the way when
-the session is complete.
+MuchiLife does not ask people to remove their phones from their lives. A person
+chooses the duration and the apps they want to keep closed; when the timer ends,
+the boundary lifts automatically.
+
+A good result is not spending more time in MuchiLife. It is completing the Focus
+you planned and returning to your studies, work, book, or anything else you chose.
+
+The product does not depend on third-party advertising or engagement loops.
 
 **Current status:** Google Play closed testing.
 
