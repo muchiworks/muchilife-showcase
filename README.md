@@ -30,7 +30,7 @@ you planned and returning to your studies, work, book, or anything else you chos
 
 The product does not depend on third-party advertising or engagement loops.
 
-**Current status:** Google Play closed testing.
+**Current status:** Available on [Google Play](https://play.google.com/store/apps/details?id=com.muchiworks.muchilife).
 
 ## Product flow
 
