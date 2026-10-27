@@ -72,6 +72,8 @@ rules feel simple without hiding important consequences.
 
 ## Current state
 
-MuchiLife is currently being validated through Google Play closed testing. The
-current work focuses on Android compatibility, purchase behavior, session
-reliability, account experience, store presentation, and production readiness.
+MuchiLife is available on
+[Google Play](https://play.google.com/store/apps/details?id=com.muchiworks.muchilife).
+Ongoing work focuses on Android compatibility, purchase behavior, session
+reliability, account experience, store presentation, and post-launch product
+quality.
