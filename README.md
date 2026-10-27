@@ -9,20 +9,21 @@
 </p>
 
 <p align="center">
-  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.muchiworks.muchilife">
-      <img
-        src="assets/google-play-badge.png"
-        alt="Get it on Google Play"
-        height="72"
-      />
-    </a>
-  </p>
   <a href="https://muchiworks.com/products/muchilife">Product website</a> ·
   <a href="PRODUCT_CASE_STUDY.md">Product case study</a> ·
   <a href="ENGINEERING_CASE_STUDY.md">Engineering case study</a> ·
   <a href="ARCHITECTURE.md">Technical overview</a> ·
   <a href="SHIPPING_LOG.md">Shipping log</a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.muchiworks.muchilife">
+    <img
+      src="assets/google-play-badge.png"
+      alt="Get it on Google Play"
+      height="72"
+    />
+  </a>
 </p>
 
 ## Product at a glance
