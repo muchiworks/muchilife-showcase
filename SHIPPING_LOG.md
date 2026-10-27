@@ -5,6 +5,8 @@ private source code or operational secrets.
 
 ## October 2026
 
+- Released MuchiLife publicly on
+  [Google Play](https://play.google.com/store/apps/details?id=com.muchiworks.muchilife).
 - Continued the Google Play closed-testing cycle with refreshed store visuals
   and product copy.
 - Expanded Android compatibility work across older API levels, current Android
